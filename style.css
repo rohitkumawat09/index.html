@@ -1,0 +1,56 @@
+.body{
+   margin-top: 30px;
+    border-radius: 20px;
+    padding: 20px    ;
+}
+
+
+.red img{
+    width: 400px;
+}
+.main{
+    height: 160px;
+    width: 100%;
+}
+
+.main img{
+    height: 100%;
+    width: 100%;
+}
+.test{
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+
+.apple{
+    height: 160px;
+    width: 100%;
+}
+
+.apple img{
+    height: 100%;
+    width: 100%;
+}
+
+.best{
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.jk{
+    height: 160px;
+    width: 100%;  
+}
+.jk img{
+    height: 100%;
+    width: 100%;  
+}
+.simpel{
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 20px;   
+}
